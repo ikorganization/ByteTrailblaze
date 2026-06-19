@@ -1,0 +1,15 @@
+### 5. Automation Scripts
+```markdown
+# Automation Scripts ⚙️
+
+## Purpose
+Collection of scripts for automating tasks.
+
+## Scripts
+- cleanup.sh
+- deploy.py
+
+## Usage
+Run any script:
+```bash
+python deploy.py
