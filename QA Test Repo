@@ -1,0 +1,16 @@
+---
+
+### 6. QA Test Repo
+```markdown
+# QA Test Repository ✅
+
+## Goal
+Store automated and manual test cases.
+
+## Tools
+- Selenium
+- Cypress
+
+## Run Tests
+```bash
+npm run test
